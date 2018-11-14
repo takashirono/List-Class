@@ -1,8 +1,4 @@
-/*
- * Queue.java
- * 
- * Computer Science 112, Boston University
- */
+
 
 /*
  * A generic interface that defines a simple ADT for a queue of

@@ -1,8 +1,3 @@
-/*
- * ListIterator.java
- *
- * Computer Science 112, Boston University
- */
 
 /*
  * An interface for an iterator that iterates over a List.

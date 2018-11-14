@@ -1,10 +1,4 @@
 /*
- * List.java
- * 
- * Computer Science 112, Boston University
- */
-
-/*
  * An interface that defines a simple ADT for a list of objects of any
  * type.
  *

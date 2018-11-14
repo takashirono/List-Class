@@ -1,8 +1,4 @@
-/*
- * LLQueue.java
- *
- * Computer Science 112, Boston University
- */
+
 
 /*
  * A generic class that implements our Queue interface using a linked list.

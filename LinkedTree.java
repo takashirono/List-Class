@@ -1,9 +1,3 @@
-/*
- * LinkedTree.java
- *
- * CS 112, Lab 10, Task 3
- */
-
 import java.util.*;
 
 /*

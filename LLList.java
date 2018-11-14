@@ -1,8 +1,3 @@
-/*
- * LLList.java
- *
- * Computer Science 112, Boston University
- */
 
 import java.util.*;
 
